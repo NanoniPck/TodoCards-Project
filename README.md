@@ -8,7 +8,7 @@ Members:
 
 # To run this
 ### Installation
-This project needs `python3` and `nodejs`. We also need some python libraries: `flask`, `flask-cors`, and `mysql`.
+This project needs `python3` and `nodejs`. We also need some python libraries: `flask`, `flask-cors`, and `mysql-connector`.
 ### Running
 There are 3 main components: the database, the backend, and the frontend
 - Database: MAMP MySql at port 3306 (this is the default port)
